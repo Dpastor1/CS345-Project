@@ -1,3 +1,5 @@
+Names: Dane Pastor, Zachary Kinnaman
+
 Project Proposal 2: Predicting Malathion Resistance in Culex quinquefasciatus Mosquitoes (GSE206489)
 Link to research
 Project Overview
