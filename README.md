@@ -60,6 +60,7 @@ This project aims to identify self-assessed stress levels (on a scale from 1 to 
 | Data Wrangling and Cleaning        | Dane                     |
 | Data Preprocessing                 | Dane                     |
 | Exploratory Data Analysis (EDA)    | Zack                     |
+| Ridge Regression Modelling         | Dane                     |
 | Feature Analysis & PCA             | Dane                     |
 | Baseline ML model (Decision Tree)  | Zack                     |
 | Advanced ML models (XGBoost, NN)   | Dane                     |
