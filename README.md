@@ -57,9 +57,10 @@ This project aims to identify self-assessed stress levels (on a scale from 1 to 
 
 | Task                               | Responsible Team Member |
 |------------------------------------|--------------------------|
-| Data acquisition & preprocessing   | Dane                     |
+| Data Wrangling and Cleaning        | Dane                     |
+| Data Preprocessing                 | Dane                     |
 | Exploratory Data Analysis (EDA)    | Zack                     |
-| Feature engineering & PCA          | Dane                     |
+| Feature Analysis & PCA             | Dane                     |
 | Baseline ML model (Decision Tree)  | Zack                     |
 | Advanced ML models (XGBoost, NN)   | Dane                     |
 | SVM modeling                       | Zack                     |
