@@ -4,8 +4,6 @@
 - Dane Pastor  
 - Zachary Kinnaman  
 
-**Link to Research:** _(add hyperlink here)_
-
 ---
 
 ## Project Overview
@@ -63,7 +61,6 @@ This project aims to identify self-assessed stress levels (on a scale from 1 to 
 | Ridge Regression Modelling         | Dane                     |
 | Feature Analysis & PCA             | Dane                     |
 | Baseline ML model (Decision Tree)  | Zack                     |
-| Advanced ML models (XGBoost, NN)   | Dane                     |
 | SVM modeling                       | Zack                     |
 | Model evaluation & interpretation  | Both                     |
 | Writing results & conclusions      | Both                     |
